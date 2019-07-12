@@ -11,3 +11,6 @@ div#wall div#tag-2 {
 div#wall div#tag-3[class="slick wicked"] {
   display: none;
 }
+
+.parent #tag-4 {
+}
