@@ -16,4 +16,6 @@ div#wall div#tag-3[class="slick wicked"] {
   display: none;
 }
 
-#wall div.parent 
+#wall div.parent #tag-5[class="slick"] {
+  display: none;
+}
